@@ -9,14 +9,17 @@ Copyright (c) 2011-2014 Litecoin Developers
 
 Copyright (c) 2014-2014 Smileycoin Developers
 
-What is Smileycoin?
+Copyright (c) 2017-Present Quoin Developers
+
+
+Quoins?
 ----------------
 
-Smileycoin is based on the Litecoin source, so using scrypt as a proof-of-work algorithm.
+Quoins is based on the Litecoin source, so using scrypt as a proof-of-work algorithm.
  - 3 minute block targets
  - subsidy halves in ~1.22m blocks (~7 years)
- - ~50 billion (50 * 10^9) total coins
- - 10000 coins per block
+ - ~5 million (50 * 10^4) total coins
+ - 10 coins per block
  - 2400 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
