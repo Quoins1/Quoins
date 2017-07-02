@@ -1,9 +1,9 @@
-Building Smileycoin
+Building Quoins
 
-See doc/readme-qt.rst for instructions on building Smileycoin-Qt,
+See doc/readme-qt.rst for instructions on building Quoins-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Smileycoin.
+implementation of Quoins.
 
 See doc/build-*.txt for instructions on building smileycoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Smileycoin.
+implementation of Quoins.
